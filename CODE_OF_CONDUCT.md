@@ -35,7 +35,7 @@ The Code of Conduct DOES NOT apply to:
 
 ### Reporting and Contact Information
 
-If you notice a violation of this Code of Conduct, please contact <libre-toontown@outlook.com>
+If you notice a violation of this Code of Conduct, please contact me at @badcodecat:matrixapp.chat (matrix <https://matrix.to/#/@badcodecat:matrixapp.chat>)
 For discussions about improving the Code of Conduct, please open an issue.
 
 ### Enforcement
